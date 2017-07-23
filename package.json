@@ -1,0 +1,22 @@
+{
+  "name": "react_onepagesite",
+  "version": "1.0.0",
+  "description": "simple one page ReactJS website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinriggio/react_onepagesite.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Justin Riggio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinriggio/react_onepagesite/issues"
+  },
+  "homepage": "https://github.com/justinriggio/react_onepagesite#readme"
+}
